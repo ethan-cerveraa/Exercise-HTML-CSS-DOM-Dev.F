@@ -1,0 +1,103 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    background-image: url(https://ebewvrxyg38.exactdn.com/wp-content/uploads/2021/03/Carner_Parfum-Boutique.jpg?strip=all&lossy=1&ssl=1);
+    background-size: cover;
+    height: 90vh;
+
+
+}
+
+header {
+    text-align: center;
+}
+
+table {
+    margin: 20px auto;
+    width: 40%;
+    height: 187px;
+}
+
+div {
+    text-align: center;
+
+}
+
+input {
+    height: 30px;
+    border-radius: 10%;
+    border: none;
+}
+
+img.imagen {
+    height: 160px;
+    border-radius: 50%;
+    position: relative;
+    left: 234px;
+}
+
+
+
+img.imagen1 {
+    height: 160px;
+    border-radius: 50%;
+    position: relative;
+    right: 165px;
+}
+
+div button.btn1 {
+    width: 130px;
+    height: 40px;
+    position: relative;
+    left: -18px;
+    color: initial;
+    background-color: lightyellow;
+    border: revert;
+    border-radius: 30%;
+
+
+}
+
+div button.btn2 {
+    width: 130px;
+    height: 40px;
+    position: relative;
+    left: 70px;
+    color: initial;
+    background-color: lightyellow;
+    border: revert;
+    border-radius: 30%;
+}
+
+div.botones1 {
+    padding: 20px;
+
+}
+
+div button.result {
+    width: 130px;
+    height: 40px;
+    position: relative;
+    left: 20px;
+    color: initial;
+    background-color: lightyellow;
+    border: revert;
+    border-radius: 30%;
+}
+
+tr th {
+    background-color: bisque;
+    position: relative;
+    left: -12px;
+}tr td {
+    position: relative;
+    left: -12px;
+    color: black;
+    font-size: medium;
+    
+}
+h1{
+    color:steelblue;
+
+
+}
